@@ -1,13 +1,7 @@
 # DevOps Knowledge Transfer Repository
 
-![DevOps Banner](https://github.com/Syed00011/Knowledge_Transfer/blob/main/assets/banner.png)  
+![DevOps Banner](https://static.vecteezy.com/system/resources/previews/008/902/912/original/devops-banner-concept-has-8-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-and-release-for-software-development-and-information-technology-operations-infographic-vector.jpg)  
 *Enhancing DevOps skills through collaboration and shared knowledge* 🎓
-
----
-
-## 🚀 Welcome to the DevOps Knowledge Transfer Repository!
-
-This repository is a comprehensive resource dedicated to sharing **best practices**, **tooling guides**, and **practical knowledge** in the world of DevOps. Whether you're new to DevOps or looking to deepen your expertise, this is the place for you.
 
 ---
 
@@ -39,21 +33,23 @@ This repository is a comprehensive resource dedicated to sharing **best practice
 
 ---
 
+## 🙋 Who is this Repository for?
+This repository is designed for anyone on a **Zero to Hero** journey in DevOps! Whether you're just starting out or looking to build expertise from the ground up, this repository is for you:
+- **Beginners**: Those new to DevOps, looking for a structured learning path.
+- **Aspiring DevOps Engineers**: Individuals seeking to transition into DevOps roles with hands-on tools and practices.
+- **Career Switchers**: Professionals from other domains wanting to dive into the world of DevOps and cloud technologies.
+- **Self-Learners**: Anyone who is self-taught and looking to grow their DevOps skills in a comprehensive, step-by-step manner.
+
+By the end of this journey, you'll have the knowledge and skills to go from **Zero** to **Hero** in DevOps! 🚀
+
+---
+
 ## 🔗 DevOps Animations and Resources
 
 To make learning more engaging, check out the following resources for **DevOps animations** and interactive tutorials:
 - **[DevOps Journey - YouTube](https://www.youtube.com/c/DevOpsJourney)**: A great channel featuring animated explanations of DevOps concepts.
 - **[Visual DevOps](https://visual.devops.com)**: A site that features visual representations and animations of various DevOps workflows.
 - **[Katacoda Interactive Labs](https://www.katacoda.com)**: Hands-on scenarios with step-by-step guides and animations.
-
----
-
-## 🙋 Who is this Repository for?
-This repository is perfect for:
-- **DevOps Enthusiasts**: Anyone looking to dive deeper into DevOps practices.
-- **Software Engineers**: Developers who want to integrate DevOps into their development and deployment workflows.
-- **System Administrators**: Sysadmins aiming to automate infrastructure and improve operational efficiency.
-- **IT Professionals**: Anyone responsible for adopting DevOps principles in their organization.
 
 ---
 
@@ -70,4 +66,4 @@ Check out the `CONTRIBUTING.md` for more detailed guidelines.
 ## 📥 Get Started:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/devops-knowledge-transfer.git
+   git clone https://github.com/Syed00011/Knowledge_Transfer.git
