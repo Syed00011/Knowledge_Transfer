@@ -1,6 +1,6 @@
 # DevOps Knowledge Transfer Repository
 
-![DevOps Banner](https://user-images.githubusercontent.com/your-banner-image-url.png)  
+![DevOps Banner](https://github.com/Syed00011/Knowledge_Transfer/blob/main/assets/banner.png)  
 *Enhancing DevOps skills through collaboration and shared knowledge* 🎓
 
 ---
